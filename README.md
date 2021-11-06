@@ -4,6 +4,7 @@
 ### 안녕하세요. 개발을 공부하는 손영배입니다.
 
 - 📫 How to reach me: dudqo225@gmail.com
+- 🌱 I’m currently learning : Python, JavaScript, HTML/CSS
 
 <!--
 **dudqo225/dudqo225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
