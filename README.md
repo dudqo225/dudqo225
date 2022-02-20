@@ -8,6 +8,7 @@
 
 ### Email | dudqo225@gmail.com
 ### Blog | [YB_Engineer.log](https://velog.io/@yb_engineer)
+### Notion | [저의 Notion 페이지로 이동할 수 있습니다.]()
 
 <br>
 
