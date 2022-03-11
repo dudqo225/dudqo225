@@ -4,7 +4,7 @@
 ### 하루에 한걸음씩! 거북이처럼 꾸준히 나아가는 개발자 손영배입니다 🐢
 <br>
 
-## 🧑 My Info
+## 👨‍💻 My Info
 
 ### Email | dudqo225@gmail.com
 ### Blog | [YB_Engineer.log](https://velog.io/@yb_engineer)
