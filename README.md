@@ -1,7 +1,7 @@
-# 손영배의 GitHub 입니다.
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Youngbae's GitHub&fontSize=90" />
 
-### 안녕하세요.
-### 하루에 한걸음씩! 거북이처럼 꾸준히 나아가는 개발자 손영배입니다 🐢
+### 하루에 한걸음씩!
+### 거북이처럼 꾸준히 나아가는 Backend 개발자 손영배입니다 🐢
 <br>
 
 ## 👨‍💻 My Info
@@ -60,5 +60,7 @@
 ***
 
 ![dudqo225's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudqo225&show_icons=true&theme=vision-friendly-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudqo225&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdudqo225&count_bg=%23FFB000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
