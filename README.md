@@ -6,10 +6,17 @@
 
 ## 👨‍💻 My Info
 
-### Email | dudqo225@gmail.com
-### Blog | [YB_Engineer.log](https://velog.io/@yb_engineer)
-### Notion | [,,,](.)
+<a href="https://velog.io/@yb_engineer">
+ <img src="https://img.shields.io/badge/YB_Engineer.log-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+</a>
+<a href="mailto:dudqo225@gmail.com">
+ <img src="https://img.shields.io/badge/dudqo225@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+<a href=".">
+ <img src="https://img.shields.io/badge/YB's Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
 
+<br>
 <br>
 
 ## 🛠 Tech Stacks
